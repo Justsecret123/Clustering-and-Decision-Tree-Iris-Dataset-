@@ -1,0 +1,8 @@
+Python
+
+-1 dataset is the same file iris_data.csv
+-2 correct & fill blank cases( numeric, nominal)
+-3 apply k-means based on the numerics variables
+-4 the results should be the input for classification
+-5 apply DT (Decision tree) for the cluster obtained before
+-6 check the result with original data. 
