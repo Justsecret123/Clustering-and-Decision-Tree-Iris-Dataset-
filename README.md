@@ -8,7 +8,7 @@ A quick Notebook to explore a ML pipeline, which consists on preparing the data,
 
 # Screenshots 
 
-## Data cleaning 
+## Data cleaning (snippet)
 ![Data cleaning](Screenshots/Data%20Cleaning.PNG)
 
 ## K-Means Clustering 
